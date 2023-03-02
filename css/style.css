@@ -1,0 +1,22 @@
+html{
+    background-image: url('../img/bg/FM23_CORE_SHAPES-15.png');
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+body{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    background-color: blueviolet;
+    opacity: 0.5;
+    width: 100%;
+    height: 10rem;
+}
+
+#nav-logo{
+    height: 100%;
+}
